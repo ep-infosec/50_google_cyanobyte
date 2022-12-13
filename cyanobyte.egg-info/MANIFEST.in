@@ -1,0 +1,2 @@
+include cyanobyte-templates/*.*
+include cyanobyte-spec/cyanobyte.schema.json
